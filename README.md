@@ -1,2 +1,3 @@
-# failureguru-click-to-call
-Telnyx + Airtable Lambda for Click-to-Call and CRM Integration
+# FailureGuru Click-to-Call
+
+Starter repo for Telnyx + Airtable Lambda integration.
